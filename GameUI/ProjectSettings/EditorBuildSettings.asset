@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LocalGameScreen.unity
     guid: 0b550cf5e838e7d4eab77eee59ae53cb
+  - enabled: 1
+    path: Assets/Scenes/MapScreen.unity
+    guid: a33e092f5422ac7438af6378a07fdd01
   m_configObjects: {}
